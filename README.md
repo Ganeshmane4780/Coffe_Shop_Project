@@ -11,4 +11,4 @@ glistening-madeleine-4600cc.netlify.app
 
 Feel free to explore, customize, and enhance! 🚀
 
-* Note:-Do not upload anywhere without permission. *
+* Note:-Do not upload anywhere this project without permission. 
