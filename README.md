@@ -6,4 +6,9 @@ A beautifully designed Coffee Shop Website built using HTML & CSS. This project 
 ✅ Fully Responsive & Stylish Design
 ✅ Smooth Hover Effects for Better UX and minimal design
 
+Get the live preview:-
+glistening-madeleine-4600cc.netlify.app
+
 Feel free to explore, customize, and enhance! 🚀
+
+* Note:-Do not upload anywhere without permission. *
